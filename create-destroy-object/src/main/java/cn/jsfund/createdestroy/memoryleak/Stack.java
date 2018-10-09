@@ -1,4 +1,4 @@
-package cn.jsfund.createdestroy.memoryLeak;
+package cn.jsfund.createdestroy.memoryleak;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;
